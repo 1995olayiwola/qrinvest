@@ -20,7 +20,7 @@ const api = new ParseServer({
   restApiKey:REST_API_KEY,
   serverURL:SERVER_URL,
   liveQuery:{
-    classNames:['chat']
+    classNames:['Chat','Task']
   }
 
 })
