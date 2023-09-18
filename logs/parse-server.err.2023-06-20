@@ -1,0 +1,1 @@
+{"code":202,"level":"error","message":"Account already exists for this username.","stack":"Error: Account already exists for this username.\n    at C:\\Users\\Samuel\\Desktop\\qrinvest\\backend\\node_modules\\parse-server\\lib\\RestWrite.js:552:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2023-06-20T20:02:00.912Z"}

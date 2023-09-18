@@ -1,0 +1,24 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T11:35:40.556Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T11:35:40.566Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T11:35:43.539Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:21:01.003Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:21:01.015Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T12:21:01.674Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:22:35.680Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:22:35.689Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T12:22:35.855Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:23:35.338Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:23:35.347Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T12:23:35.519Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:30:11.700Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:30:11.710Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T12:30:11.901Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:31:32.520Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:31:32.528Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T12:31:32.714Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:32:23.073Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T12:32:23.082Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T12:32:23.290Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-06-19T21:31:15.466Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-06-19T21:31:16.008Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-06-19T21:31:15.477Z"}

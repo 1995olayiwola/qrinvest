@@ -1,0 +1,3 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-07-03T12:48:03.715Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-07-03T12:48:03.950Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-07-03T12:48:06.095Z"}
