@@ -10,8 +10,9 @@ const dbConn = 'mongodb+srv://olatechbus95:olatechbus95@cluster0.43wjd.mongodb.n
 const APP_ID = 'qrInvestment';
 const MASTER_KEY = 'qrInvestmentMaster';
 const REST_API_KEY ='qrInvestmentRest';
-const SERVER_URL = 'https://qrinvest.onrender.com/parse'
+const SERVER_URL = 'http://localhost:1337/parse'
 //https://dreaminvestment-b52297c0d397.herokuapp.com
+// 'https://qrinvest.onrender.com/parse'
 const api = new ParseServer({
   databaseURI:dbConn,
   cloud:__dirname + '/cloud/main.js',
@@ -20,7 +21,7 @@ const api = new ParseServer({
   restApiKey:REST_API_KEY,
   serverURL:SERVER_URL,
   liveQuery:{
-    classNames:['Chat','Task']
+    classNames:['Task']
   }
 
 })

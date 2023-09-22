@@ -1,0 +1,9 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-09-22T02:52:00.231Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-09-22T02:52:00.243Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-09-22T02:52:01.032Z"}
+{"level":"info","message":"Create new client: 7288b1a4-9075-48ca-b934-53ee87e9f948","timestamp":"2023-09-22T02:54:24.018Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-09-22T02:57:17.571Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2023-09-22T02:57:17.589Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-09-22T02:57:17.999Z"}
+{"level":"info","message":"Create new client: 0b6de9b4-8510-42ef-9203-95a95710eb57","timestamp":"2023-09-22T02:57:22.398Z"}
+{"level":"info","message":"Client disconnect: 0b6de9b4-8510-42ef-9203-95a95710eb57","timestamp":"2023-09-22T02:58:58.277Z"}
